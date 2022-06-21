@@ -11,6 +11,6 @@ Day 10 challenge of 21-days coding challenge
 ![Day 13 Challenge](./day10.jpg "Slide In")
 
 
-Project link: [Check Multiple Checkboxes](https://smtoyedeji.github.io/check-with-shiftkey/)
+Project link: [Check Multiple Checkboxes](https://smtoyedeji.github.io/checkbox-challenge/)
 
 
